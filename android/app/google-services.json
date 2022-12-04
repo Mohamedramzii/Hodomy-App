@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "1000050503358",
+    "project_id": "hodomy-bec17",
+    "storage_bucket": "hodomy-bec17.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1000050503358:android:dc1768a16bf0620818b8ef",
+        "android_client_info": {
+          "package_name": "com.example.ecommerce_app_with_getx"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1000050503358-ehrifs5dbf52g1rkk6h5d6rt0abgtpmd.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.ecommerce_app_with_getx",
+            "certificate_hash": "7cdeff0ef57ac67465c8fafa472f00e3c96bf177"
+          }
+        },
+        {
+          "client_id": "1000050503358-79nahv2lbstb4u0k3em658kq4fihjlp2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDt3aK4YZD65OZBNUliVjwWYjfNZymjVXE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1000050503358-79nahv2lbstb4u0k3em658kq4fihjlp2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
