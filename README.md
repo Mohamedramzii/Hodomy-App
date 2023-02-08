@@ -11,19 +11,19 @@ And i have implemented some features like
 - Some animations.
 
 
-⚫Home screen
+-Home screen
 ![home1](https://user-images.githubusercontent.com/57300921/217357962-25b6b5dc-1fac-4341-8d00-7bc94eee6319.png)
 
-⚫search for items feature
+-search for items feature
 ![homeSearch](https://user-images.githubusercontent.com/57300921/217357987-07e6e081-06f0-404d-a127-ddc49e897394.png)
 
-⚫You can look for item with in its category section
+-You can look for item with in its category section
 ![inner sections](https://user-images.githubusercontent.com/57300921/217358009-7489ac0c-fbef-4cab-b1cc-feb87f586a35.png) 
 
-⚫Empty Cart screen
+-Empty Cart screen
 ![empty cart](https://user-images.githubusercontent.com/57300921/217358190-f9b8fda1-948e-4800-92ae-b1e2d7a170c8.png)
 
-⚫details screen
+-details screen
 ![shipping details](https://user-images.githubusercontent.com/57300921/217358048-f408c398-8c9a-4fde-8cf0-07f3c8b820b6.png)
  
 ⚫Add item to cart screen
