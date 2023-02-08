@@ -11,7 +11,7 @@ And i have implemented some features like
 - Some animations.
 
 
--Home screen
+#### Home screen
 ![home1](https://user-images.githubusercontent.com/57300921/217357962-25b6b5dc-1fac-4341-8d00-7bc94eee6319.png)
 
 -search for items feature
