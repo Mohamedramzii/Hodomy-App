@@ -24,7 +24,7 @@ And i have implemented some features like
 ![empty cart](https://user-images.githubusercontent.com/57300921/217358190-f9b8fda1-948e-4800-92ae-b1e2d7a170c8.png)
 
 #### ⚫details screen
-![shipping details](https://user-images.githubusercontent.com/57300921/217358048-f408c398-8c9a-4fde-8cf0-07f3c8b820b6.png)
+![details](https://user-images.githubusercontent.com/57300921/217358167-1ac92b32-7558-48fd-ab16-4179963d8270.png)
  
 #### ⚫Add item to cart screen
 ![item added to cart](https://user-images.githubusercontent.com/57300921/217358030-bbd67deb-dc87-44f5-899a-b65b03eeb7d5.png)
